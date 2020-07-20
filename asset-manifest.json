@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-SEO-LG/static/css/main.5f361e03.chunk.css",
-    "main.js": "/React-SEO-LG/static/js/main.6dcf2c4f.chunk.js",
-    "main.js.map": "/React-SEO-LG/static/js/main.6dcf2c4f.chunk.js.map",
+    "main.js": "/React-SEO-LG/static/js/main.64b6c6bd.chunk.js",
+    "main.js.map": "/React-SEO-LG/static/js/main.64b6c6bd.chunk.js.map",
     "runtime-main.js": "/React-SEO-LG/static/js/runtime-main.22c2162c.js",
     "runtime-main.js.map": "/React-SEO-LG/static/js/runtime-main.22c2162c.js.map",
     "static/js/2.a430f49c.chunk.js": "/React-SEO-LG/static/js/2.a430f49c.chunk.js",
     "static/js/2.a430f49c.chunk.js.map": "/React-SEO-LG/static/js/2.a430f49c.chunk.js.map",
     "index.html": "/React-SEO-LG/index.html",
-    "precache-manifest.8ca6bdeb5db4e61d2046f6e7f6da30bc.js": "/React-SEO-LG/precache-manifest.8ca6bdeb5db4e61d2046f6e7f6da30bc.js",
+    "precache-manifest.691f2f93a6f97c36595c0735c9badba2.js": "/React-SEO-LG/precache-manifest.691f2f93a6f97c36595c0735c9badba2.js",
     "service-worker.js": "/React-SEO-LG/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/React-SEO-LG/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a430f49c.chunk.js.LICENSE.txt": "/React-SEO-LG/static/js/2.a430f49c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.22c2162c.js",
     "static/js/2.a430f49c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6dcf2c4f.chunk.js"
+    "static/js/main.64b6c6bd.chunk.js"
   ]
 }
